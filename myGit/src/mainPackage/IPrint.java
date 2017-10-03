@@ -10,6 +10,7 @@ public class IPrint {
 	
 	public void printText() {
 		System.out.println("Der Text, den ich ausgeben soll, ist:\n"+textToPrint);
+		System.out.println("Test1");
 	}
 	
 }
